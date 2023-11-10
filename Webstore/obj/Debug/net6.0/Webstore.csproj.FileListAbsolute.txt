@@ -1,0 +1,6 @@
+C:\Users\pnuam\Desktop\INFORMATIK\IMC\Exchange 2023_24\Self study\C#\source\OnlineStore\Webstore\obj\Debug\net6.0\Webstore.csproj.AssemblyReference.cache
+C:\Users\pnuam\Desktop\INFORMATIK\IMC\Exchange 2023_24\Self study\C#\source\OnlineStore\Webstore\obj\Debug\net6.0\Webstore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pnuam\Desktop\INFORMATIK\IMC\Exchange 2023_24\Self study\C#\source\OnlineStore\Webstore\obj\Debug\net6.0\Webstore.AssemblyInfoInputs.cache
+C:\Users\pnuam\Desktop\INFORMATIK\IMC\Exchange 2023_24\Self study\C#\source\OnlineStore\Webstore\obj\Debug\net6.0\Webstore.AssemblyInfo.cs
+C:\Users\pnuam\Desktop\INFORMATIK\IMC\Exchange 2023_24\Self study\C#\source\OnlineStore\Webstore\obj\Debug\net6.0\Webstore.csproj.CoreCompileInputs.cache
+C:\Users\pnuam\Desktop\INFORMATIK\IMC\Exchange 2023_24\Self study\C#\source\OnlineStore\Webstore\obj\Debug\net6.0\Webstore.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,12 @@
+C:\Users\pnuam\Desktop\INFORMATIK\IMC\Exchange 2023_24\Self study\C#\source\HomeworkPrep\Forum\obj\Debug\net6.0\Forum.csproj.AssemblyReference.cache
+C:\Users\pnuam\Desktop\INFORMATIK\IMC\Exchange 2023_24\Self study\C#\source\HomeworkPrep\Forum\obj\Debug\net6.0\Forum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pnuam\Desktop\INFORMATIK\IMC\Exchange 2023_24\Self study\C#\source\HomeworkPrep\Forum\obj\Debug\net6.0\Forum.AssemblyInfoInputs.cache
+C:\Users\pnuam\Desktop\INFORMATIK\IMC\Exchange 2023_24\Self study\C#\source\HomeworkPrep\Forum\obj\Debug\net6.0\Forum.AssemblyInfo.cs
+C:\Users\pnuam\Desktop\INFORMATIK\IMC\Exchange 2023_24\Self study\C#\source\HomeworkPrep\Forum\obj\Debug\net6.0\Forum.csproj.CoreCompileInputs.cache
+C:\Users\pnuam\Desktop\INFORMATIK\IMC\Exchange 2023_24\Self study\C#\source\HomeworkPrep\Forum\obj\Debug\net6.0\Forum.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pnuam\Desktop\INFORMATIK\IMC\Exchange 2023_24\Self study\C#\source\OnlineStore\Forum\obj\Debug\net6.0\Forum.csproj.AssemblyReference.cache
+C:\Users\pnuam\Desktop\INFORMATIK\IMC\Exchange 2023_24\Self study\C#\source\OnlineStore\Forum\obj\Debug\net6.0\Forum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pnuam\Desktop\INFORMATIK\IMC\Exchange 2023_24\Self study\C#\source\OnlineStore\Forum\obj\Debug\net6.0\Forum.AssemblyInfoInputs.cache
+C:\Users\pnuam\Desktop\INFORMATIK\IMC\Exchange 2023_24\Self study\C#\source\OnlineStore\Forum\obj\Debug\net6.0\Forum.AssemblyInfo.cs
+C:\Users\pnuam\Desktop\INFORMATIK\IMC\Exchange 2023_24\Self study\C#\source\OnlineStore\Forum\obj\Debug\net6.0\Forum.csproj.CoreCompileInputs.cache
+C:\Users\pnuam\Desktop\INFORMATIK\IMC\Exchange 2023_24\Self study\C#\source\OnlineStore\Forum\obj\Debug\net6.0\Forum.MvcApplicationPartsAssemblyInfo.cache
